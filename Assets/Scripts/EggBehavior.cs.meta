@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5d70ec6d81abb4749a9b6597a1be4cc4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kumaEggSprite: {instanceID: 0}
+  - kumaPrefab: {fileID: 6673783224103583855, guid: f3a7555048fb84474a687d9697829257, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
