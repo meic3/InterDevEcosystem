@@ -1,1 +1,1 @@
-a
+I think I did pretty well in this project, because I made different creatures that moves and grows differently. I am perosnally proud of the octopus and the fishing rod. I think I really like the fishing rod because it spawns as there are more fish and it can catch the fish. I wanted to add a garden eel, but something about changing the sprites didn't work and it just didn't show up so I had to give up on that. But with the garden eel, it would have been cooler. I learnt how to use coroutines and I also got a lot more used to using timers. 
